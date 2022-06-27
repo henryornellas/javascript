@@ -1,1 +1,2 @@
-# javascript
+# JavaScript
+Começo do estudo JavaScript
