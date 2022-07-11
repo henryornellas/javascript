@@ -1,3 +1,3 @@
 # JavaScript
 Começo do estudo JavaScript
-09/7
+10;07
